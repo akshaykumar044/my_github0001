@@ -1,0 +1,65 @@
+It was created by Linus Torvalds in 2005.
+🔹 What is Git used for?
+
+
+Track changes in files
+
+
+Work with multiple developers
+
+
+Manage different versions of a project
+
+
+Undo mistakes
+
+
+Store project history
+
+
+🔹 Common Git Commands
+
+
+git init → Create new repository
+
+
+git clone <url> → Copy repository
+
+
+git add . → Add files
+
+
+git commit -m "message" → Save changes
+
+
+git push → Upload changes
+
+
+git pull → Download changes
+
+
+git status → Check status
+
+
+🔹 Git vs GitHub
+
+
+Git → Version control tool
+
+
+GitHub → Online platform to host Git repositories
+
+
+If you want, I can explain:
+
+
+How to create a Git repository?
+
+
+How to fix Git errors?
+
+
+How to upload project to GitHub?
+
+
+Tell me what you want 😊
